@@ -25,7 +25,7 @@ Getting Started:
 Clone the Repository (Optional): If the code is publicly available on a platform like Github, you can clone it using the provided command:
 
 Bash
-git clone https://github.com/amaraj078/recipe-search-api.git
+git clone https://github.com/mdasif602/college_task2
 Use code with caution.
 
 Project Setup: Navigate to the project directory and install dependencies:
